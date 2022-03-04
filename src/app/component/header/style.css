@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #ffffff;
+}
+
+.city_falcon_logo {
+    width: 90px;
+    height: 43px;
+    padding: 4px 0px 4px 20px;
+    object-fit: contain;
+}
+
+.avaava3xDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.profile_image{
+    width: 35px;
+    height: 35px;
+    margin: 7px 6px 7px 0;
+}
+
+.icon{
+    width: 8px;
+    height: 13px;
+    margin: 11px 0 11px 6px;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    padding: 0 11px 0 0;
+}

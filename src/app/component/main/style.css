@@ -1,0 +1,34 @@
+.main {
+    background-color: #f7f7f7;
+    display: flex;
+}
+
+.container {
+    margin-left: 70px;
+}
+
+.watchlist_name {
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3971c1;
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+}
+
+.watchlist-block {
+    width: 80%;
+    background-color: #f7f7f7;
+}
+
+.sidebar {
+    background-color: #eee;
+    width: 20%;
+}

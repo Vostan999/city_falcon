@@ -1,0 +1,27 @@
+
+
+.select {
+    position: relative;
+    min-width: 172px;
+    max-width: max-content;
+}
+
+.select_head {
+    border-radius: 3px;
+    background-color: #ffffff;
+    padding: 4px 10px;
+    height:40px;
+
+}
+
+.select_body {
+    min-width: 188px;
+    max-width: max-content;
+    position: absolute;
+    transform: translateY(100%);
+    bottom: -6px;
+    left: 0;
+    border-radius: 3px;
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+}
